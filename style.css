@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 10px;
+	background-size: cover;
+}
+
+.ninja {
+    padding-left: 100px;
+    size: 15rem;
+}
+
+
+#footer {
+	position: fixed;
+	padding: 10px 10px 0px 10px;
+	bottom: 0;
+	width: 100%;
+	/* Height of the footer*/
+	height: 40px;
+	color: #556FAF;
+	font-size: 1.3rem;
+	font-weight: 600;
+	text-align: center;
+	background-color: white;
+}

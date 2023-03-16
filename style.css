@@ -23,3 +23,27 @@ body {
 	text-align: center;
 	background-color: white;
 }
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+  }
+  
+tr, td {
+	text-align: left;
+	font-weight: 700;
+  }
+
+  .table_left{
+	border-right: 20px solid #fff;
+	border-left: 4px solid #fff;
+	border-bottom: 10px solid #fff;
+	
+  }
+  
+  .table_right{
+	border-left: 20px solid #fff;
+	border-right: 4px solid #fff;
+	border-bottom: 10px solid #fff;
+  }
+ 
